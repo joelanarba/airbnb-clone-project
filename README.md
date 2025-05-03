@@ -169,3 +169,35 @@ By documenting these elements early, the Airbnb Clone project can maintain a **p
 ---
 
 Each role is critical to the success of the Airbnb Clone project, ensuring the final product is functional, user-friendly, reliable, and aligned with user and business needs.
+
+## 🧩 UI Component Patterns
+
+To ensure a modular and maintainable frontend, the Airbnb Clone will be built using reusable UI components. Below are the key components planned for development:
+
+### Navbar
+- **Features:**
+  - Logo linking to the homepage.
+  - Search bar for property search.
+  - User navigation (Login/Signup, Profile, Bookings).
+  - Responsive hamburger menu for smaller screens.
+- **Purpose:** Provides site-wide navigation and quick access to key areas.
+
+### Property Card
+- **Features:**
+  - Property image thumbnail.
+  - Basic details: price per night, location, title, and rating.
+  - Favorite (like) button.
+  - Responsive layout adapting to different screen sizes.
+- **Purpose:** Displays property listings in a grid layout, enabling users to quickly browse available accommodations.
+
+### Footer
+- **Features:**
+  - Useful site links (About, Help, Privacy, Terms).
+  - Company information.
+  - Social media icons.
+  - Copyright.
+- **Purpose:** Provides additional site navigation and company details, enhancing credibility and trust.
+
+---
+
+Each of these components will be designed to be **responsive, accessible, and reusable**, ensuring consistency across the application and making future updates easier.
