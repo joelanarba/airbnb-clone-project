@@ -72,4 +72,38 @@ A user-friendly design is crucial in a booking system because it:
 
 By focusing on these aspects, the Airbnb Clone aims to deliver a professional, reliable, and enjoyable experience for all users.
 
+### 🎨 Color Styles
 
+- **Primary Color:** `#FF5A5F`
+- **Secondary Color:** `#008489`
+- **Background Color:** `#FFFFFF`
+- **Text Color:** `#222222`
+- **Secondary Text Color:** `#717171`
+
+---
+
+### 🅰️ Typography
+
+- **Primary Font Family:** Circular
+- **Font Weights:**
+  - Medium (500)
+  - Bold (700)
+  - Book (400)
+- **Font Sizes:**
+  - Body Text: 16px
+  - Headings: 24px – 32px
+  - Secondary Text: 14px
+
+---
+
+### ✍️ Why Identifying Design Properties Matters
+
+Understanding and documenting the design properties (such as color schemes, typography, spacing, and layout) of a mockup is essential because:
+
+- **Ensures Consistency:** Having a clear design system keeps all pages visually consistent, which builds trust and a polished feel.
+- **Guides Development:** Developers can translate the design into code more accurately when design properties are well-defined.
+- **Improves Team Collaboration:** Everyone (developers, designers, testers) works from the same visual reference, reducing misunderstandings.
+- **Saves Time:** With predefined styles, creating new components or pages becomes faster and more efficient.
+- **Accessibility & Usability:** Ensuring the right color contrasts and text sizes helps make the site usable for everyone.
+
+By documenting these elements early, the Airbnb Clone project can maintain a **professional and user-friendly design** throughout its development.
