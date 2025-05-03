@@ -107,3 +107,65 @@ Understanding and documenting the design properties (such as color schemes, typo
 - **Accessibility & Usability:** Ensuring the right color contrasts and text sizes helps make the site usable for everyone.
 
 By documenting these elements early, the Airbnb Clone project can maintain a **professional and user-friendly design** throughout its development.
+
+## 👥 Project Roles and Responsibilities
+
+### Project Manager
+- **Responsibilities:**
+  - Oversees the overall project timeline and deliverables.
+  - Coordinates team activities and ensures alignment with project goals.
+  - Manages risks, resources, and resolves any roadblocks.
+- **Contribution:** Ensures smooth execution of the project from start to finish, keeping everything on schedule and organized.
+
+### Frontend Developers
+- **Responsibilities:**
+  - Implement UI components using React, ensuring a responsive and accessible design.
+  - Integrate frontend with backend APIs.
+  - Maintain clean, modular, and well-documented code.
+- **Contribution:** Bring the user interface to life and ensure a seamless user experience.
+
+### Backend Developers
+- **Responsibilities:**
+  - Design and build RESTful APIs.
+  - Manage databases and handle business logic.
+  - Ensure security, data integrity, and scalability.
+- **Contribution:** Provide the data and functionality that power the application behind the scenes.
+
+### Designers
+- **Responsibilities:**
+  - Create wireframes, mockups, and final UI designs in Figma.
+  - Maintain the design system and ensure visual consistency.
+  - Collaborate closely with developers to ensure pixel-perfect implementation.
+- **Contribution:** Define the look and feel of the application, ensuring it’s user-friendly and visually appealing.
+
+### QA/Testers
+- **Responsibilities:**
+  - Write test cases and perform manual/automated testing.
+  - Identify and report bugs or usability issues.
+  - Validate performance and responsiveness across devices.
+- **Contribution:** Ensure the app is stable, bug-free, and meets quality standards before release.
+
+### DevOps Engineers
+- **Responsibilities:**
+  - Set up and manage the deployment pipeline (CI/CD).
+  - Handle server and cloud infrastructure.
+  - Monitor performance and ensure uptime.
+- **Contribution:** Enable smooth deployment and operation of the app, ensuring it’s always available and reliable.
+
+### Product Owner
+- **Responsibilities:**
+  - Define project requirements and prioritize features.
+  - Act as the bridge between stakeholders and the development team.
+  - Approve deliverables and provide feedback.
+- **Contribution:** Keep the project aligned with business goals and user needs.
+
+### Scrum Master
+- **Responsibilities:**
+  - Facilitate Agile processes (sprints, stand-ups, retrospectives).
+  - Remove blockers that slow down the team.
+  - Foster team collaboration and continuous improvement.
+- **Contribution:** Ensure the team works effectively and stays focused on delivering incremental value.
+
+---
+
+Each role is critical to the success of the Airbnb Clone project, ensuring the final product is functional, user-friendly, reliable, and aligned with user and business needs.
