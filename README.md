@@ -4,7 +4,8 @@
 
 This project is a full-stack clone of the popular accommodation booking platform Airbnb. The goal is to build a functional web application where users can browse property listings, view detailed property information, and complete bookings. It is part of the ALX ProDev Frontend program im enrolling in.
 
-## Project Goals
+---
+### Project Goals
 
 - Implement responsive and user-friendly UI/UX designs.
 - Structure a complex full-stack web application.
@@ -12,7 +13,8 @@ This project is a full-stack clone of the popular accommodation booking platform
 - Connect frontend with backend APIs and manage data using a database.
 - Deploy the final application for public use
 
-## Tech Stack
+---
+### Tech Stack
 
 **Frontend:**
 - HTML
@@ -30,7 +32,7 @@ This project is a full-stack clone of the popular accommodation booking platform
 
 ## 🎨 UI/UX Design Planning
 
-### ✅ Design Goals
+### Design Goals
 
 - Create an intuitive and seamless booking flow.
 - Maintain visual consistency across all pages using a well-defined design system.
@@ -40,7 +42,7 @@ This project is a full-stack clone of the popular accommodation booking platform
 
 ---
 
-### 🔑 Key Features
+### Key Features
 
 - **Property Search & Filtering:** Allow users to search for properties by location, dates, and filter by price, ratings, etc.
 - **Detailed Property View:** Show full property details including photos, amenities, and availability.
@@ -50,7 +52,7 @@ This project is a full-stack clone of the popular accommodation booking platform
 
 ---
 
-### 🖥️ Primary Pages
+### Primary Pages
 
 | Page                      | Description                                                                                               |
 |---------------------------|-----------------------------------------------------------------------------------------------------------|
@@ -72,7 +74,7 @@ A user-friendly design is crucial in a booking system because it:
 
 By focusing on these aspects, the Airbnb Clone aims to deliver a professional, reliable, and enjoyable experience for all users.
 
-### 🎨 Color Styles
+### Color Styles
 
 - **Primary Color:** `#FF5A5F`
 - **Secondary Color:** `#008489`
@@ -82,7 +84,7 @@ By focusing on these aspects, the Airbnb Clone aims to deliver a professional, r
 
 ---
 
-### 🅰️ Typography
+### Typography
 
 - **Primary Font Family:** Circular
 - **Font Weights:**
@@ -96,7 +98,7 @@ By focusing on these aspects, the Airbnb Clone aims to deliver a professional, r
 
 ---
 
-### ✍️ Why Identifying Design Properties Matters
+### Why Identifying Design Properties Matters
 
 Understanding and documenting the design properties (such as color schemes, typography, spacing, and layout) of a mockup is essential because:
 
